@@ -5,6 +5,9 @@ A React application that consumes the [Rick and Morty API](https://rickandmortya
 ## 🔗 Live Demo
 [https://country-explorer-five-black.vercel.app/](https://country-explorer-five-black.vercel.app/)
 
+## 📱 LinkedIn Post
+[View the responsive walkthrough post](https://www.linkedin.com/posts/sara-s-812a1330b_webdevelopment-react-internship-ugcPost-7484275897592819712-iPA-/?utm_source=share&utm_medium=member_android&rcm=ACoAAE7-kc4BR6-YIbUqKCJkKKPxyninpHbL49o)
+
 ## ✨ Features
 
 - **Live data fetching** — pulls character data directly from a public REST API
@@ -44,10 +47,6 @@ This project was built to practice real-world frontend patterns:
 - Building responsive, filterable UI driven by user input
 - Structuring a small React app cleanly with separation of concerns
 
-## 📹 Demo Video
-
-A walkthrough video showing loading, successful data rendering, search/filtering, and the error state is available here: [LinkedIn post link](https://www.linkedin.com/your-actual-post-url-here)
-
 ## 🚀 Getting Started
 
 Clone the repository and run it locally:
@@ -59,6 +58,6 @@ npm install
 npm run dev
 ```
 
-## 👩‍💻 Author
+## 👩‍💻 Developed By
 
 Sara Shafiq — Full Stack Web Development Intern, NeuroFive Solutions
