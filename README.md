@@ -2,10 +2,8 @@
 
 A React application that consumes the [Rick and Morty API](https://rickandmortyapi.com/) to fetch and display character data in real time, with live search, loading states, and graceful error handling.
 
-🔗 **Live Demo:** [your-vercel-link-here](#)
-📂 **Repository:** [github.com/sarashafique225/countries-explorer](#)
-
-![Character Explorer Screenshot](screenshot.png)
+## 🔗 Live Demo
+[https://country-explorer-five-black.vercel.app/](https://country-explorer-five-black.vercel.app/)
 
 ## ✨ Features
 
@@ -21,17 +19,6 @@ A React application that consumes the [Rick and Morty API](https://rickandmortya
 - [React](https://react.dev/) (Vite)
 - [Rick and Morty API](https://rickandmortyapi.com/)
 - Vanilla CSS (Flexbox & CSS Grid)
-
-## 🚀 Getting Started
-
-Clone the repository and run it locally:
-
-```bash
-git clone https://github.com/sarashafique225/countries-explorer.git
-cd countries-explorer
-npm install
-npm run dev
-```
 
 The app will be available at `http://localhost:5173`.
 
@@ -59,8 +46,19 @@ This project was built to practice real-world frontend patterns:
 
 ## 📹 Demo Video
 
-A walkthrough video showing loading, successful data rendering, search/filtering, and the error state is available here: [LinkedIn post link](#)
+A walkthrough video showing loading, successful data rendering, search/filtering, and the error state is available here: [LinkedIn post link](https://www.linkedin.com/your-actual-post-url-here)
 
-## 📄 License
+## 🚀 Getting Started
 
-This project is open source and available for learning purposes.
+Clone the repository and run it locally:
+
+```bash
+git clone https://github.com/sarashafique225/countries-explorer.git
+cd countries-explorer
+npm install
+npm run dev
+```
+
+## 👩‍💻 Author
+
+Sara Shafiq — Full Stack Web Development Intern, NeuroFive Solutions
